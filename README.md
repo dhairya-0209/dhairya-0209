@@ -6,7 +6,7 @@
 - 🧪 Exploring **Data Extraction Projects** with a focus on structured insights from unstructured formats.
 - 💬 Ask me about **Python**, **C++**
 - 📫 How to reach me: **dhairyabhatia9@gmail.com**
-- ⚡ Fun fact: **I'm a HackIndia 2024 national finalist with a project ranked among top 10 in India 🚀**
+- ⚡ Fun fact: **I'm a HackIndia 2024 national finalist🚀**
 
 ---
 
@@ -18,7 +18,7 @@
 ### 🧠 Certifications & Achievements:
 - 🎓 **AI & ML Certified**, Google Cloud & Azure AI
 - 🥇 **University Rank Holder**
-- 🥈 **HackIndia 2024 Finalist** – *Top 10 in India from 2800+ teams*
+- 🥈 **HackIndia 2024 Finalist** 
 - 🏆 **CSS Certified** – HackerRank
 - ☁️ **Google Cloud Professional Cloud Architect**
 
