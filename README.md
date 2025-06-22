@@ -24,7 +24,7 @@
 
 ---
 
-### 🧰 Projects I'm Proud Of:
+### 🧰 Project I'm Proud Of:
 
 - 🏆 **Sankalp – Web3 Charity Donation Platform**  
   Ethereum, Web3.js, MetaMask, Flask  
