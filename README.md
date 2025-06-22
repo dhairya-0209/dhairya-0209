@@ -1,5 +1,8 @@
-<h1 align="center">Hi 👋, I'm Dhairya Bhatia</h1>
-<h3 align="center">AI/ML Enthusiast | Frontend Developer | Cloud Certified | Finalist @HackIndia 2024</h3>
+!-- Profile Header -->
+<h1 align="center">Hi there 👋, I'm <span style="color:#0078D4">Dhairya Bhatia</span></h1>
+<h3 align="center">🚀 AI/ML Enthusiast | 🧠 Cloud Certified | 🛠 Web3 Developer | 🎓 HackIndia 2024 Finalist</h3>
+
+---
 
 - 🧪 Exploring **Data Extraction Projects** with a focus on structured insights from unstructured formats.
 - 💬 Ask me about **Python**, **C++**
@@ -21,6 +24,7 @@
   <img src="https://img.shields.io/badge/-FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white"/>
   <img src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github"/>
 </p>
+<p align="center"> <img src="https://skillicons.dev/icons?i=python,cpp,html,css,js,mongodb,mysql,azure,fastapi,github,vscode" alt="Tech Stack" /> </p>
 
 ---
 
@@ -48,21 +52,9 @@
 
 
 
-### 🌐 Connect with Me:
-<p align="left">
-  <a href="https://www.linkedin.com/in/dhairya-bhatia-7436b6288/" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin"/>
-  </a>
-  <a href="mailto:dhairyabhatia9@gmail.com" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/-Gmail-red?style=flat-square&logo=gmail&logoColor=white"/>
-  </a>
-</p>
+<p align="center"> <a href="https://www.linkedin.com/in/dhairya-bhatia-7436b6288/" target="_blank" rel="noopener noreferrer"> <img src="https://img.shields.io/badge/LinkedIn-Dhairya%20Bhatia-blue?style=for-the-badge&logo=linkedin&logoColor=white"/> </a> <a href="mailto:dhairyabhatia9@gmail.com" target="_blank" rel="noopener noreferrer"> <img src="https://img.shields.io/badge/Gmail-dhairyabhatia9@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/> </a> </p>
 
 ---
 
 ### 📊 GitHub Stats:
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=dhairya1509&show_icons=true&theme=radical" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dhairya1509&theme=radical" />
-</p>
-
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=dhairya1509&show_icons=true&theme=tokyonight" width="47%" /> <img src="https://github-readme-streak-stats.herokuapp.com?user=dhairya1509&theme=tokyonight" width="47%" /> </p> ```
