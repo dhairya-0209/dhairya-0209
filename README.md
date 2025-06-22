@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Dhairya Bhatia</h1>
 <h3 align="center">AI/ML Enthusiast | Frontend Developer | Cloud Certified | Finalist @HackIndia 2024</h3>
 
+- 🧪 Exploring **Data Extraction Projects** with a focus on structured insights from unstructured formats.
+- 💬 Ask me about **Python**, **C++**
 - 📫 How to reach me: **dhairyabhatia9@gmail.com**
 - ⚡ Fun fact: **I'm a HackIndia 2024 national finalist with a project ranked among top 10 in India 🚀**
 
@@ -48,10 +50,10 @@
 
 ### 🌐 Connect with Me:
 <p align="left">
-  <a href="https://www.linkedin.com/in/dhairya-bhatia-7436b6288/" target="_blank">
+  <a href="https://www.linkedin.com/in/dhairya-bhatia-7436b6288/" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin"/>
   </a>
-  <a href="mailto:dhairyabhatia9@gmail.com">
+  <a href="mailto:dhairyabhatia9@gmail.com" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/-Gmail-red?style=flat-square&logo=gmail&logoColor=white"/>
   </a>
 </p>
