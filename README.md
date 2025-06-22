@@ -37,7 +37,7 @@
   FastAPI, NLP, PDF Parsing  
   *Built AI-powered resume analyzer with ATS score logic & job recommendations*
 
-
+---
 
 
 ### 🌐 Connect with Me
