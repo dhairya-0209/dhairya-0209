@@ -1,4 +1,3 @@
-!-- Profile Header -->
 <h1 align="center">Hi there 👋, I'm <span style="color:#0078D4">Dhairya Bhatia</span></h1>
 <h3 align="center">🚀 AI/ML Enthusiast | 🧠 Cloud Certified | 🛠 Web3 Developer | 🎓 HackIndia 2024 Finalist</h3>
 
@@ -40,9 +39,26 @@
 
 
 
-<p align="center"> <a href="https://www.linkedin.com/in/dhairya-bhatia-7436b6288/" target="_blank" rel="noopener noreferrer"> <img src="https://img.shields.io/badge/LinkedIn-Dhairya%20Bhatia-blue?style=for-the-badge&logo=linkedin&logoColor=white"/> </a> <a href="mailto:dhairyabhatia9@gmail.com" target="_blank" rel="noopener noreferrer"> <img src="https://img.shields.io/badge/Gmail-dhairyabhatia9@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/> </a> </p>
 
----
+### 🌐 Connect with Me
 
-### 📊 GitHub Stats:
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=dhairya-0209&show_icons=true&theme=tokyonight" width="47%" /> <img src="https://github-readme-streak-stats.herokuapp.com?user=dhairya1509&theme=tokyonight" width="47%" /> </p> ```
+<p align="center">
+  <a href="https://www.linkedin.com/in/dhairya-bhatia-7436b6288/" target="_blank" rel="noopener noreferrer">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="40" height="40"/>
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="mailto:dhairyabhatia9@gmail.com" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.icons8.com/fluency/48/gmail.png" alt="Gmail" width="40" height="40"/>
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://github.com/dhairya1509" target="_blank" rel="noopener noreferrer">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="40" height="40"/>
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://www.instagram.com/dhairya_0109/" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.icons8.com/fluency/48/instagram-new.png" alt="Instagram" width="40" height="40"/>
+  </a>
+</p>
+
+
+
