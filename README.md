@@ -25,17 +25,11 @@
 ---
 
 ### 🧰 Projects I'm Proud Of:
-- **Sankalp – Web3 Charity Donation Platform**  
+
+- 🏆 **Sankalp – Web3 Charity Donation Platform**  
   Ethereum, Web3.js, MetaMask, Flask  
-  *Secure blockchain-based donation dApp for social causes*
-
-- **Spotify Clone**  
-  HTML, CSS, JavaScript  
-  *Responsive and interactive music streaming interface*
-
-- **ResuMate – Resume Analyzer + Job Matcher**  
-  FastAPI, NLP, PDF Parsing  
-  *Built AI-powered resume analyzer with ATS score logic & job recommendations*
+  *Secure blockchain-based donation dApp for social causes*  
+  🏅 *State-level winning project and among the top at the national level in HackIndia 2024*
 
 ---
 
