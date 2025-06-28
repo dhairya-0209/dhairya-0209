@@ -28,7 +28,7 @@
 
 - 🏆 **Sankalp – Web3 Charity Donation Platform**  
   Ethereum, Web3.js, MetaMask, Flask  
-  *Secure blockchain-based donation dApp for social causes*  
+  *Secure blockchain-based donation App for social causes*  
   🏅 *State-level winning project and among the top at the national level in HackIndia 2024*
 
 ---
