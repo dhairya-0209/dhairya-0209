@@ -1,5 +1,5 @@
 <h1 align="center">Hi there 👋, I'm <span style="color:#0078D4">Dhairya Bhatia</span></h1>
-<h3 align="center">🚀 AI/ML Enthusiast | 🧠 Cloud Certified | 🛠 Frontend Developer | 🎓 HackIndia 2024 Finalist</h3>
+<h3 align="center">🚀 AI/ML Enthusiast | 🧠 Cloud Certified | 🛠 Web Developer | 🎓 HackIndia 2024 Finalist</h3>
 
 ---
 
